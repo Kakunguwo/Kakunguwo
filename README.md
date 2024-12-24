@@ -1,9 +1,9 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Ronnie Kakunguwo!
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a keen interest in [Your Interests]. 🌟
+Welcome to my GitHub profile! I'm a passionate Software Developer/Biomedical Engineering Student at the University of Zimbabwe with a keen interest in Software Engineering and Robotics. 🌟
 
 ## 🔧 Skills & Technologies
-- **Programming Languages:** [e.g., JavaScript, Python, C++]
+- **Programming Languages:** [e.g., JavaScript, Python]
 - **Frameworks & Libraries:** [e.g., React, Node.js, Express.js]
 - **Databases:** [e.g., MySQL, MongoDB, PostgreSQL]
 - **Tools & Platforms:** [e.g., Git, Docker]
