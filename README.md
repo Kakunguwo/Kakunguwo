@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Ronnie Kakunguwo!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-Student-blue?style=for-the-badge" alt="Software Developer">
-  <img src="https://img.shields.io/badge/Biomedical%20Engineering-Passionate-green?style=for-the-badge" alt="Biomedical Engineering">
+  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" alt="Software Developer">
+  <img src="https://img.shields.io/badge/Biomedical%20Engineering-green?style=for-the-badge" alt="Biomedical Engineering">
   <img src="https://img.shields.io/badge/Location-Zimbabwe-orange?style=for-the-badge" alt="Location Zimbabwe">
 </p>
 
