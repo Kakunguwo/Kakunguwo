@@ -49,6 +49,10 @@ Welcome to my GitHub profile! I'm a **passionate Software Developer** and a **Bi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kakunguwo&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kakunguwo&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 
