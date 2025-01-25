@@ -51,11 +51,6 @@ Welcome to my GitHub profile! I'm a **passionate Software Developer** and a **Bi
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kakunguwo&theme=dark)](https://git.io/streak-stats)
-
-
----
-
 ## 📫 How to Reach Me
 <p align="center">
   <a href="mailto:ronniekakunguwo03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
