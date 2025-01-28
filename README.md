@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **passionate Software Developer** and a **Bi
     </tr>
     <tr>
       <td><strong>Frameworks & Libraries</strong></td>
-      <td>React, Node.js, Express.js, Nest.js, Next.js</td>
+      <td>React, Node.js, Express.js, Nest.js, Next.js, Remix</td>
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
