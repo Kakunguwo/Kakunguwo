@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" alt="Software Developer">
   <img src="https://img.shields.io/badge/Full%20Stack-green?style=for-the-badge" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Biomedical%20Engineer-red?style=for-the-badge" alt="Biomedical Engineer">
   <img src="https://img.shields.io/badge/AI%20Enthusiast-purple?style=for-the-badge" alt="AI Enthusiast">
   <img src="https://img.shields.io/badge/Location-Zimbabwe-orange?style=for-the-badge" alt="Location Zimbabwe">
 </p>
@@ -47,7 +48,6 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about buil
 
 ## 🚀 Current Focus
 
-- 💼 **Working:** Full-stack development at Mework (South Africa) - Remote
 - 🔨 **Building:** AI-powered applications and automation tools
 - 🌐 **Learning:** Advanced cloud technologies and system architecture
 - 🚀 **Exploring:** New frameworks and emerging tech trends
