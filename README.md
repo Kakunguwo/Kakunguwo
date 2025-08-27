@@ -9,7 +9,7 @@
 
 ---
 
-Welcome to my GitHub profile! I'm a **Software Developer** passionate about building innovative solutions with **modern web technologies** and **AI integration**. I love creating applications that solve real-world problems and exploring the latest tech trends. 🌟
+Welcome to my GitHub profile! I'm a **Software Developer** and **Biomedical Engineer** passionate about building innovative solutions with **modern web technologies**, **AI integration**, and **robotics**. I enjoy creating applications that solve real-world problems across multiple domains - from healthcare to fintech, e-commerce to automation. 🌟
 
 ---
 
@@ -34,12 +34,12 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about buil
       <td>MongoDB, MySQL, PostgreSQL, Prisma ORM</td>
     </tr>
     <tr>
-      <td><strong>AI & Tools</strong></td>
-      <td>RAG Models, Ollama, ChromaDB, Git, Docker</td>
+      <td><strong>AI & Robotics</strong></td>
+      <td>RAG Models, Ollama, ChromaDB, IoT Systems, Arduino</td>
     </tr>
     <tr>
-      <td><strong>Other</strong></td>
-      <td>IoT Systems, WebSocket, Socket.io, GitHub Actions</td>
+      <td><strong>DevOps & Tools</strong></td>
+      <td>Git, Docker, GitHub Actions, WebSocket, Socket.io</td>
     </tr>
   </table>
 </div>
@@ -48,9 +48,20 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about buil
 
 ## 🚀 Current Focus
 
-- 🔨 **Building:** AI-powered applications and automation tools
-- 🌐 **Learning:** Advanced cloud technologies and system architecture
-- 🚀 **Exploring:** New frameworks and emerging tech trends
+- 🏥 **Learning:** Health tech software engineering principles and system architecture
+- 🤖 **Exploring:** AI applications in robotics and automation systems
+- ☁️ **Developing:** Cloud-native applications and microservices architecture
+- 🌐 **Building:** Cross-domain solutions spanning healthcare, fintech, and e-commerce
+
+---
+
+## 💡 Passions & Interests
+
+- 🤖 **AI & Robotics:** Developing intelligent systems for automation and human-computer interaction
+- 🏥 **Health Tech:** Creating digital health solutions and medical device integrations
+- 🧠 **Machine Learning:** Implementing AI models for predictive analytics and decision support
+- 🌍 **Cross-Domain Innovation:** Applying software engineering principles across various industries
+- 🔬 **Research & Development:** Bridging academic research with practical industry applications
 
 ---
 
@@ -64,15 +75,6 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about buil
 
 ---
 
-## 💼 Featured Projects
-
-- ⚖️ **CaseRover** - AI-powered legal research platform with document parsing
-- 🧠 **Kronscriber** - AI text humanization tool with 92% success rate
-- 🔧 **InternflowTech** - Full-stack internship management system with AI matching
-- 🌐 **Community Platforms** - Various web applications for organizations and communities
-
----
-
 ## 📫 How to Reach Me
 
 <p align="center">
@@ -83,16 +85,26 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about buil
 
 ---
 
-## 🌟 About Me
+## 🌟 What I Bring
 
-- 🌍 **Based in:** Zimbabwe
-- 🎯 **Focus:** Creating scalable, user-friendly applications
-- 🎮 **Hobbies:** Gaming (FIFA), exploring new technologies
-- 💡 **Interests:** AI integration, automation, web development, IoT
-- 🤝 **Open to:** Collaborations, freelance projects, and new opportunities
+- 🎯 **Versatile Problem Solver:** Applying software engineering across healthcare, fintech, legal tech, and automation
+- 🔧 **Full-Stack Expertise:** End-to-end development from concept to deployment
+- 🏥 **Domain Knowledge:** Unique combination of technical skills and biomedical engineering background
+- 🤝 **Collaborative Mindset:** Experience working with distributed teams and cross-functional stakeholders
+- 📚 **Continuous Learner:** Always exploring new technologies and industry best practices
+
+---
+
+## 💼 Open To
+
+- 🚀 **Full-time opportunities** in software development across any domain
+- 🤝 **Collaborative projects** involving AI, robotics, or health tech
+- 💡 **Consulting engagements** for healthcare technology implementations
+- 🌐 **Remote positions** with global teams and innovative challenges
+- 📈 **Growth opportunities** where I can leverage both technical and domain expertise
 
 ---
 
 <p align="center">
-  ⭐️ <em>Building the future, one commit at a time. Feel free to explore my repositories and reach out for collaborations!</em> ⭐️
+  ⭐️ <em>Transforming ideas into scalable solutions. Explore my repositories and let's build something amazing together!</em> ⭐️
 </p>
