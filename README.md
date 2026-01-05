@@ -17,9 +17,9 @@
 
 ## About Me
 
-Full-stack developer with a biomedical engineering foundation, specializing in healthcare technology solutions. I create practical applications that bridge the gap between medical needs and technical innovation, spanning healthcare systems, fintech platforms, and automation tools.
+Full-stack developer with a biomedical engineering foundation, creating practical applications that solve real-world problems. My work spans healthcare systems, fintech platforms, data engineering pipelines, and automation tools.
 
-Currently expanding into machine learning, computer vision, and robotics with a focus on AI-powered healthcare diagnostics.
+Currently expanding into data engineering, machine learning, computer vision, and robotics while building scalable solutions across various domains.
 
 ---
 
@@ -59,6 +59,8 @@ Currently expanding into machine learning, computer vision, and robotics with a 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Currently Learning
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -68,20 +70,20 @@ Currently expanding into machine learning, computer vision, and robotics with a 
 
 ## Current Focus
 
-**AI-Powered Healthcare**
-- Building diagnostic tools using machine learning
-- Integrating computer vision for medical imaging analysis
-- Developing predictive models for patient outcomes
+**Data Engineering**
+- Building ETL/ELT pipelines with Apache Airflow
+- Learning Apache Spark for large-scale data processing
+- Designing scalable data architectures and workflows
 
-**Robotics & IoT**
-- Designing automation systems for healthcare facilities
-- Implementing IoT sensors for patient monitoring
-- Creating Raspberry Pi-based medical devices
+**AI & Machine Learning**
+- Developing machine learning models for predictive analytics
+- Integrating computer vision for image analysis applications
+- Building intelligent systems across various domains
 
-**Open Source Contribution**
-- Contributing to health tech projects
-- Sharing tools and libraries for medical applications
-- Collaborating with global developer communities
+**Automation & IoT**
+- Designing automation systems and workflows
+- Implementing IoT sensors and monitoring solutions
+- Creating embedded systems with Raspberry Pi
 
 ---
 
@@ -90,9 +92,10 @@ Currently expanding into machine learning, computer vision, and robotics with a 
 I'm actively seeking full-time opportunities, collaborative projects, and consulting engagements in:
 
 - Software Development (Full-Stack, Backend, Frontend)
-- AI/ML Engineering and Healthcare Applications
-- Health Technology Innovation
-- Biomedical Engineering Projects
+- Data Engineering & Pipeline Architecture
+- AI/ML Engineering and Applications
+- Automation & IoT Solutions
+- Fintech & Healthcare Technology
 
 **Contact:**
 - Email: ronniekakunguwo03@gmail.com
@@ -103,6 +106,6 @@ I'm actively seeking full-time opportunities, collaborative projects, and consul
 
 <div align="center">
 
-**"Engineering solutions that make healthcare more accessible and effective"**
+**"Building innovative solutions that solve real-world problems across industries"**
 
 </div>
