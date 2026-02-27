@@ -35,12 +35,22 @@ Currently expanding into data engineering, machine learning, computer vision, an
 ## GitHub Statistics
 
 <div align="center">
+  
+### Profile Overview
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakunguwo&theme=aura_dark)
+
+### Language Distribution
+| Repositories Per Language | Most Commit Language |
+| :---: | :---: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kakunguwo&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kakunguwo&theme=aura_dark) |
+
+### Stats & Activity
+| GitHub Stats | Productive Time |
+| :---: | :---: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kakunguwo&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kakunguwo&theme=aura_dark&utcOffset=8) |
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kakunguwo&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=3382ED&fire=3382ED&currStreakLabel=3382ED)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kakunguwo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3382ED&icon_color=3382ED&text_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakunguwo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3382ED&text_color=FFFFFF&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kakunguwo&theme=github-compact&hide_border=true&bg_color=0D1117&color=3382ED&line=3382ED&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
