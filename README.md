@@ -2,7 +2,7 @@
 
 # Ronnie Kakunguwo
 
-### Biomedical Software Engineer | Full-Stack Developer
+### Biomedical Engineer | Medical Imaging | Information Technology Systems
 
 **Building healthcare, data and intelligent software systems for real-world environments**
 
